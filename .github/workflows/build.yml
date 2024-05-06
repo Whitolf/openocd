@@ -1,4 +1,4 @@
-# Author: Benedikt Kleiner, Amo Xu
+# Author: Benedikt Kleiner, Amo Xu ,Whitolf
 
 name: Build OpenOCD Mac & Linux & Windows
 on: push
